@@ -9,7 +9,7 @@
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
@@ -29,6 +29,7 @@
   * [JUnit](#junit)
   * [Maven](#maven)
   * [Spring](#spring)
+  * [Swing UI](#swing-ui)
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
   * [jQuery](#jquery)
@@ -51,6 +52,9 @@
   * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
+  * [Jupyter Notebook](#jupyter-notebook)
+  * [NumPy](#numpy)
+  * [Pycharm](#pycharm)
 * [R](#r)
 * [Ruby](#ruby)
   * [RSpec](#rspec)
@@ -77,7 +81,7 @@
 * [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
-* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction: *в процессе написания*) (PDF)
+* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF)
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
 * [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp-ru-screen.pdf) - Гарольд Абельсон, Джералд Джей Сассман (PDF)
@@ -89,6 +93,7 @@
 
 #### Облачные вычисления
 
+* [Программирование Cloud Native. Микросервисы, Docker и Kubernetes](https://ipsoftware.ru/books/cloud-k8s/) - Иван Портянкин (PDF, EPUB, MOBI)
 * [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
 
 
@@ -131,16 +136,16 @@
 ### C
 
 * [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf) - Денис Юричев (PDF)
-* [Краткое руководство Beej к GDB](https://paintingvalley.com/ru-bggdb) - (HTML)
+* [Краткое руководство Beej к GDB](https://paintingvalley.com/ru-bggdb) - Brian "Beej Jorgensen" Hall (HTML)
 * [Особенности языка C. Учебное пособие](https://younglinux.info/c) - C. Шапошникова (PDF)
 * [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
 * [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов
-* [Сетевое программирование от Биджа - Использование Интернет Сокетов](http://beej.us/guide/bgnet/translations/bgnet_A4_rus.pdf) - B. Hall, Перевод Андрея Косенко (PDF)
+* [Сетевое программирование от Биджа - Использование Интернет Сокетов](http://beej.us/guide/bgnet/translations/bgnet_A4_rus.pdf) - Brian "Beej Jorgensen" Hall, Перевод Андрея Косенко (PDF)
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html) - Романов Е.Л.
 * [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах) - Викиучебник
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [Паттерны проектирования в C# и .NET](https://metanit.com/sharp/patterns) - Евгений Попов
 * [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7](https://metanit.com/sharp/tutorial) - Евгений Попов
@@ -148,7 +153,7 @@
 * [Design Patterns via C#](http://itvdn.com/ru/patterns) - Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов (PDF) *(Требуется аккаунт)*
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
 * [Введение в язык Си++](http://stolyarov.info/books/cppintro) - Андрей Столяров (PDF)
@@ -198,6 +203,7 @@
 * [Руководство по языку Go](https://metanit.com/go/tutorial) - Евгений Попов
 * [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
 * [Go в примерах](https://gobyexample.ru)
+* [Go для PHP-разработчиков](https://pahanini.gitbooks.io/golang-for-php-developers/content/) - Pavel Tetyaev (gitbook)
 * [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
 
 
@@ -274,12 +280,19 @@
 
 * [Руководство по Maven](http://proselyte.net/tutorials/maven) - Евгений Сулейманов
 * [Apache Maven](https://easyjava.ru/ekosistema/sredstva-sborki/apache-maven/)
+* [Maven Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchitsia-maven/maven-nastroika-sredy) - CoderLessons.com
 
 
 #### Spring
 
 * [Руководство по Spring](http://proselyte.net/tutorials/spring-tutorial-full-version) - Евгений Сулейманов
 * [Spring Framework](https://easyjava.ru/spring/)
+* [Spring MVC Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchis-spring-mvc/spring-mvc-tutorial) - CoderLessons.com
+
+
+#### Swing UI
+
+* [Java Swing: Эффектные пользовательские интерфейсы - Издание второе](https://ipsoftware.ru/books/swing_book_2/) - Иван Портянкин (PDF, EPUB)
 
 
 ### JavaScript
@@ -291,6 +304,7 @@
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
 * [Руководство по JavaScript](https://metanit.com/web/javascript) - Евгений Попов
 * [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
+* [Учебник по Javascript](https://coderlessons.com/tutorials/veb-razrabotka/uchit-javascript/uchebnik-po-javascript) - CoderLessons.com
 * [JavaScript и jQuery](https://html5book.ru/javascript-jquery) - Елена Назарова
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
 
@@ -301,6 +315,7 @@
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [Перевод документации](http://angular-doc.herokuapp.com)
+* [AngularJS Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-angularjs/angularjs-tutorial) - CoderLessons.com
 
 
 #### jQuery
@@ -308,11 +323,13 @@
 * [Онлайн-книга "Изучаем jQuery"](https://metanit.com/web/jquery) - Евгений Попов
 * [Русская документация по API jQuery](https://jquery-docs.ru)
 * [jQuery для начинающих](http://anton.shevchuk.name/jquery-book) - Антон Шевчук
+* [JQuery Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/jquery/jquery-tutorial) - CoderLessons.com
 
 
 #### Node.js
 
 * [Руководство по Node.js](https://metanit.com/web/nodejs) - Евгений Попов
+* [Учебник Node.js](https://coderlessons.com/tutorials/veb-razrabotka/uchebnik-node-js/uchebnik-node-js) - CoderLessons.com
 * [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
 
 
@@ -328,18 +345,21 @@
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
 * [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/)
+* [Учебник ReactJS](https://coderlessons.com/tutorials/veb-razrabotka/uznaite-reactjs/uchebnik-reactjs) - CoderLessons.com
 
 
 #### Vue.js
 
 * [Перевод документации](https://ru.vuejs.org)
 * [Руководство по Vue.js](https://metanit.com/web/vuejs) - Евгений Попов
+* [VueJS Учебник](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-vuejs/vuejs-uchebnik) - CoderLessons.com
 
 
 ### Kotlin
 
 * [Руководство по языку Kotlin](http://kotlinlang.ru)
 * [Руководство по языку Kotlin](https://metanit.com/java/kotlin) - Евгений Попов
+* [Учебник по Котлину](https://coderlessons.com/tutorials/mobilnaia-razrabotka/uchebnik-kotlin/1-uchebnik-po-kotlinu) - CoderLessons.com
 
 
 ### LaTeX
@@ -397,27 +417,34 @@
 * [Руководство по PHP](http://docs.php.net/manual/ru)
 * [Руководство по PHPUnit](https://phpunit.readthedocs.io/ru/latest/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher)
+* [Учебник по PHP](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-php/uchebnik-po-php)
+* [Учебник по PHP 7](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-php-7/uchebnik-po-php-7)
 * [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way)
 
 
 #### CakePHP
 
 * [Руководство](https://book.cakephp.org/3.0/ru/index.html)
+* [CakePHP Учебное пособие](https://coderlessons.com/tutorials/veb-razrabotka/uznaite-cakephp/cakephp-uchebnoe-posobie)
 
 
 #### CodeIgniter
 
 * [CodeIgniter](http://codeigniter3.info) - Игорь Букша
+* [CodeIgniter — Основные понятия](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-codeigniter/codeigniter-osnovnye-poniatiia)
+* [CodeIgniter фреймворк](https://coderlessons.com/tutorials/veb-razrabotka/codeigniter-freimvork/codeigniter-freimvork)
 
 
 #### Laravel
 
 * [Документация 5.x](https://laravel.ru/docs/v5)
 * [Перевод документации](http://laravel.su/docs)
+* [Учебник Laravel](https://coderlessons.com/tutorials/veb-razrabotka/vyuchi-laravel/uchebnik-laravel)
 
 
 #### Symfony
 
+* [Учебник по Symfony](https://coderlessons.com/tutorials/veb-razrabotka/uchit-symfony/uchebnik-po-symfony)
 * [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
 
 
@@ -442,6 +469,21 @@
 
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
 * [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *в процессе написания*)
+
+
+#### Jupyter Notebook
+
+* [Учебник по Jupyter](https://coderlessons.com/tutorials/python-technologies/jupyter/uchebnik-po-jupyter) - CoderLessons.com
+
+
+#### NumPy
+
+* [NumPy Tutorial](https://coderlessons.com/tutorials/python-technologies/uchitsia-numpy/numpy-tutorial) - CoderLessons.com
+
+
+#### Pycharm
+
+* [Pycharm — Введение](https://coderlessons.com/tutorials/python-technologies/uznaite-pycharm/pycharm-vvedenie) - CoderLessons.com
 
 
 ### R
@@ -475,6 +517,7 @@
 * [Растономикон](https://github.com/ruRust/rustonomicon)
 * [Язык программирования Rust](http://rurust.github.io/rust_book_ru)
 * [Rust на примерах](https://rurust.github.io/rust-by-example-ru)
+* [Rust Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchitsia-programmirovaniiu-na-rust/rust-tutorial) - CoderLessons.com
 
 
 ### Scala
@@ -530,6 +573,7 @@
 
 * [Документация и туториалы](https://swiftbook.ru)
 * [Documentation](https://swift.org/documentation)
+* [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial) - CoderLessons.com
 
 
 ### TypeScript

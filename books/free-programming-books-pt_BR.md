@@ -1,13 +1,14 @@
-﻿### Índice
+### Índice
 
 * [Agnósticos](#agnósticos)
   * [IDE / Editores](#ide--editores)
   * [Programação](#programação)
   * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
+* [Arduino](#arduino)
 * [Assembly](#assembly)
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Dart](#dart)
 * [Docker](#docker)
@@ -38,6 +39,7 @@
 * [LaTeX](#latex)
 * [LISP](#lisp)
 * [Lua](#lua)
+* [Pascal](#pascal)
 * [PHP](#php)
   * [Symfony](#symfony)
 * [Python](#python)
@@ -66,12 +68,14 @@
 
 #### Programação
 
+* [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF)
 * [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari e Cristian Cechinel (PDF)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
 
 
 #### Sistemas Operacionais
 
+* [Guia com mais de 500 comandos do Linux explicados](https://www.gnulinuxbrasil.com.br/2017/05/24/guia-com-mais-de-500-comandos-do-linux-explicados/) - Bruno Andrade (PDF)
 * [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
 * [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (:construction: *em contínuo desenvolvimento*)
 
@@ -81,28 +85,35 @@
 * [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 
 
+### Arduino
+
+* [Arduino Guia Iniciante](https://cdn.multilogica-shop.com/Guia_Arduino/Guia_Arduino_Iniciante_Multilogica_Shop_Versao_2.pdf) - Multilógica Shop (PDF)
+
+
 ### Assembly
 
 * [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
+* [Execução de Programas: Como funcionam carregadores, ligadores e interpretadores](https://www.inf.ufpr.br/bmuller/assets/docs/livroSB.pdf) - Bruno Müller Junior (PDF)
 
 
 ### C
 
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
-* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - B. Hall, Traduzido por cv8minix3 (HTML)
+* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, Traduzido por cv8minix3 (HTML)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/).
+* [Linguagem C - Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/) - Carmem Hara, Wagner Zola (HTML, [PDF](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf))
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
@@ -147,6 +158,7 @@
 
 ### Fundamentos Matemáticos Computacionais
 
+* [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF)
 * [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas (:construction: *in process*)
 
 
@@ -181,6 +193,7 @@
 
 ### Java
 
+* [Desenvolvimento de Aplicações Web em Java e Outras Tecnologias](https://github.com/davidbuzatto/Livro-Desenvolvimento-de-Aplica-es-Web-em-Java/releases) - David Buzatto (PDF)
 * [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
 * [Imergindo na JVM](https://leanpub.com/imergindo-jvm) - Otavio Santana *(Leanpub account or valid email requested)*
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) (PDF)
@@ -301,6 +314,11 @@
 ### Lua
 
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
+
+
+### Pascal
+
+* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva e Daniel Weingaertner (PDF)
 
 
 ### PHP

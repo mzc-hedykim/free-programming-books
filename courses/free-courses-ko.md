@@ -5,7 +5,7 @@
 * [Arduino](#arduino)
 * [ASP.NET](#asp.net)
 * [C/C++](#c/c++)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [Circuit](#circuit)
 * [Deep Learning](#deep-learning)
 * [Flutter](#flutter)
@@ -19,6 +19,7 @@
   * [AngularJS](#angularjs)
   * [Node.js](#node.js)
   * [React.js](#react.js)
+* [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
@@ -30,7 +31,6 @@
 * [Raspberry Pi](#raspberry-pi)
 * [Reinforced Learning](#reinforced-learning)
 * [Ruby](#ruby)
-* [Rust](#rust)
 * [Security](#security)
 * [Spring](#spring)
 * [Swift](#swift)
@@ -74,12 +74,13 @@
 * [씹어먹는 C](https://modoocode.com/231) - 이재범
 * [씹어먹는 C++](https://modoocode.com/135) - 이재범
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
+* [C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP) - 나도코딩 (YouTube)
 * [C++ 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLJRimEWvctNAfE5JrkwswQv6Yy4abqDl2)
 * [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [예제로 배우는 C# 강좌](https://www.youtube.com/playlist?list=PL4PkN2EXiuVF3Xl0HNVMdY-_kMM3oyBds)
 
@@ -98,8 +99,9 @@
 
 ### Flutter
 
-* [Flutter 입문](https://www.youtube.com/playlist?list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv)
-* [Flutter 중급](https://www.youtube.com/playlist?list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe)
+* [Flutter 강좌 순한맛](https://www.youtube.com/playlist?list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl) - 코딩셰프
+* [Flutter 입문](https://www.youtube.com/playlist?list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv) - 오준석의 생존코딩
+* [Flutter 중급](https://www.youtube.com/playlist?list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe) - 오준석의 생존코딩
 
 
 ### Git
@@ -160,6 +162,11 @@
 
 * [React.js 강좌](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 * [React.js 이론부터 실전까지](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCED62ZIWCbI-6G_jcwmuFB)
+
+
+### Kotlin
+
+* [안드로이드 코틀린 기초 강좌](https://www.youtube.com/playlist?list=PLva6rQOdsvQU7QJIg2RHM9wcT11X1S0pj) - 센치한 개발자
 
 
 ### Linux
@@ -225,12 +232,6 @@
 
 * [Python & Ruby](https://www.opentutorials.org/course/1750) (생활코딩)
 * [Ruby coin](https://www.youtube.com/playlist?list=PLEBQPmkNcLCIE9ERi4k_nUkGgJoBizx6s)
-
-
-### Rust
-
-* [Team Jupeter - Rust by Examples](https://www.youtube.com/playlist?list=PLlSZlNj22M7SywLz61Wseh6iVGWRrtH76) - Team Jupeter (유튜브 채널) 
-* [Team Jupeter - The Rust Programming Language](https://www.youtube.com/playlist?list=PLlSZlNj22M7TBqclhEMkXFabaDCmds0mg) - Team Jupeter (유튜브 채널) 
 
 
 ### Security

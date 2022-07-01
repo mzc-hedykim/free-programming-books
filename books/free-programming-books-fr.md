@@ -11,7 +11,8 @@
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
 * [C / C++](#c--c)
-* [Caml](#caml)
+* [Caml / OCaml](#caml--ocaml)
+* [Chaîne de blocs / Blockchain](#chaîne-de-blocs--blockchain)
 * [Coq](#coq)
 * [CSS](#css)
 * [Fortran](#fortran)
@@ -104,17 +105,25 @@
 * [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
-### Caml
-
-* [Le language Caml](http://caml.inria.fr)
-
-
 ### C / C++
 
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
-* [Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet](http://vidalc.chez.com/lf/socket.html) - (HTML)
+* [Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet](http://vidalc.chez.com/lf/socket.html) - Brian "Beej Jorgensen" Hall (HTML)
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
 * [Programmation en Langage C et Systèmes Informatiques](https://sites.uclouvain.be/SystInfo/notes/Theorie/) - O. Bonaventure, E. Riviere, G. Detal, C. Paasch
+
+
+### Caml / OCaml
+
+* [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) - Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
+* [Le langage Caml](https://caml.inria.fr/pub/distrib/books/llc.pdf) - Pierre Weis, Xavier Leroy (PDF)
+* [Programmation du système Unix en Objective Caml](https://web.archive.org/web/20211115022546/http://gallium.inria.fr/~remy/camlunix/) - Xavier Leroy, Didier Rémy
+
+
+### Chaîne de blocs / Blockchain
+
+* [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://bitcoin.maitriser.ca) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, html)
+* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Dr. Gavin Wood, Serafim Dos Santos (asciidoc, html)
 
 
 ### Coq
@@ -249,7 +258,7 @@
 
 ### Python
 
-* [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
+* [Apprendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
 * [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et lier ensuite votre compte self-learning à votre compte INGInious. )
 * [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)
